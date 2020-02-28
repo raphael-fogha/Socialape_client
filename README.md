@@ -4,7 +4,7 @@ Reseau social inspiré de Tweeter. Pas de "tweets" ici, mais des "screams" !
 
 ## Stack
 
-Front: React, Redux, Material-UI
+Front: React, Redux, Material-UI //
 Back: Express, Node, Firebase
 
 ### Screen
